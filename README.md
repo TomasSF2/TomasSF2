@@ -1,7 +1,11 @@
 
 <h1 align="left">  Hi, I'm Tomás Ferreira</h1>
-<h3 align="left">🎓 MSc in Computer Science & Engineering |  **[Universidade Nova de Lisboa](https://www.fct.unl.pt/)** </h3>
-<p align="Left">
+<h3 align="left">
+  🎓 MSc in Computer Science & Engineering |
+  <a href="https://www.fct.unl.pt/" target="_blank" rel="noreferrer">
+    NOVA School of Science and Technology
+  </a>
+</h3><p align="Left">
   <i>Major in Programming Languages and Software Systems, minor in Software Engineering</i>
 </p>
 
